@@ -1,81 +1,87 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="TV Abierta",Azteca Uno
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/7c021b38-0795-4f76-a417-0bd11bc7b34e.m3u8
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="TV Abierta",Azteca 7
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/8c5fdf34-4a2a-4a4d-a300-93860f6fd44a.m3u8
+http://bgdc.live:25461/joesardo55/37458621/215104
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/2181px-Las_Estrellas_logo_%282016%29.svg.pn" group-title="TV Abierta",Las Estrellas
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/3da616cc-7fd5-4bb5-abd9-89bed2169156.m3u8
+http://bgdc.live:25461/joesardo55/37458621/215183
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-México.png" group-title="TV Abierta",Canal 5
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/f9f8a701-6694-4b6d-ac83-d092c9ce8664.m3u8
+http://bgdc.live:25461/joesardo55/37458621/215115
 
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="TV Paga",Animal Planet
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/cd84c0bf-e8af-4708-9641-cd4aa717b563.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Cable",Animal Planet
+http://bgdc.live:25461/joesardo55/37458621/215100
 
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="TV Paga",Cinemax
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/0fb0709a-5856-4bef-b2ca-5c9b2bdb2817.m3u8
+http://bgdc.live:25461/joesardo55/37458621/215123
 
 #EXTINF:-1 tvg-id="CNNESP" tvg-name="CNN en español" tvg-logo="https://download.logo.wine/logo/CNN/CNN-Logo.wine.png" group-title="TV Paga",CNN en Español
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/b6069637-3bb9-41d2-a8d2-34a2c60cf5fc.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/512px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV Paga",Discovery Channel
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/1fb0071d-8689-4ce5-97c1-2b51f8f074c2.m3u8
+http://bgdc.live:25461/joesardo55/37458621/215130
+
+#EXTINF:-1 tvg-id="DISCOVERYH&H" tvg-name="Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="Cable",Discovery Home & Health
+http://bgdc.live:25461/joesardo55/37458621/215131
 
 #EXTINF:-1 tvg-id="DiscoveryID" tvg-name="Discovery Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="TV Paga",Investigation Discovery
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/c2486ba9-3ca9-4ffd-b80b-da03b2e24410.m3u8
 
-#EXTINF:-1 tvg-id="DistritoComedia" tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="TV Paga",Distrito Comedia
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/07bb9cdb-e6aa-4225-87fe-f33b88ea293b.m3u8
+#EXTINF:-1 tvg-id="DistritoComedia" tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Cable",Distrito Comedia
+http://bgdc.live:25461/joesardo55/37458621/215139
 
-#EXTINF:-1 tvg-id="Entertainment" tvg-name="E! Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/E%21_Logo.svg" group-title="TV Paga",E! Entertainment
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/cc370558-6d9e-48c8-a92c-1af3c6070ec7.m3u8
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/Comedy-Central-Productions-Logo.png" group-title="Cable",Comedy Central
+http://bgdc.live:25461/joesardo55/37458621/215126
+
+#EXTINF:-1 tvg-id="Entertainment" tvg-name="E! Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/E%21_Logo.svg" group-title="Cable",E! Entertainment
+http://bgdc.live:25461/joesardo55/37458621/215142
 
 #EXTINF:-1 tvg-id="ForoTV" tvg-name="Foro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="TV Paga",Foro TV
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/50fd0b11-3475-4c63-815b-9e02bc1ad753.m3u8
 
-#EXTINF:-1 tvg-id="GoldenEdge" tvg-name="Golden Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="TV Paga",Golden Edge
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/9cc125a7-b9d5-4ef8-8c4a-2e3e07ca0e63.m3u8
+#EXTINF:-1 tvg-id="GoldenEdge" tvg-name="Golden Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="Cable",Golden Edge
+http://bgdc.live:25461/joesardo55/37458621/215161
 
-#EXTINF:-1 tvg-id="GoldenPremier" tvg-name="Golden Premier" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Golden_Premier_print.svg/revision/latest?cb=20250302153714" group-title="TV Paga",Golden Premier
+#EXTINF:-1 tvg-id="GoldenPremier" tvg-name="Golden Premier" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Golden_Premier_print.svg/revision/latest?cb=20250302153714" group-title="Cable",Golden Premier
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/31294543-9bc2-4846-95b5-f538c2ad1390.m3u8
 
-#EXTINF:-1 tvg-id="Golden" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="TV Paga",Golden
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/068bd93a-1f97-41e3-b011-7134bc4d5124.m3u8
+#EXTINF:-1 tvg-id="Golden" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Cable",Golden
+http://bgdc.live:25461/joesardo55/37458621/215160
 
-#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="TV Paga",History Channel
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/b6fc03e2-a1c8-4c47-a5a7-63a49cc07c11.m3u8
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="Cable",History Channel
+http://bgdc.live:25461/joesardo55/37458621/215177
 
 #EXTINF:-1 tvg-id="TelemundoInternacional" tvg-name="Telemundo Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Telemundo_Internacional_2013_2D.png/revision/latest?cb=20190719154226&path-prefix=es" group-title="TV Paga",Telemundo Internacional
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/8b7cc655-bd20-4ee4-bb8a-66c497664286.m3u8
 
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png" group-title="TV Paga",MTV
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/55f0f295-0207-4ee5-a83b-e88a476c8697.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png" group-title="Cable",MTV
+http://bgdc.live:25461/joesardo55/37458621/215187
 
-#EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1280px-National-Geographic-Logo.svg.png" group-title="TV Paga",National Geographic
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/d7b4db45-76ee-42b5-8d3f-f6e448413263.m3u8
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1280px-National-Geographic-Logo.svg.png" group-title="Cable",National Geographic
+http://bgdc.live:25461/joesardo55/37458621/215193
 
-#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="TV Paga",Discovery Kids
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/34db762b-ec34-411f-af50-6db063b99ea5.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Niños",Discovery Kids
+http://bgdc.live:25461/joesardo55/37458621/215132
 
 #EXTINF:-1 tvg-id="Nick" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Nickelodeon-png-clipart-logo.png" group-title="TV Paga",Nickelodeon
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/d995df8b-5dbf-45ab-a144-735f6b421136.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cartoon_network_modified_logo.PNG/1200px-Cartoon_network_modified_logo.PNG" group-title="TV Paga",Cartoon Network
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/ccfeed0f-d81f-4302-80b1-c020b3224715.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cartoon_network_modified_logo.PNG/1200px-Cartoon_network_modified_logo.PNG" group-title="Niños",Cartoon Network
+http://bgdc.live:25461/joesardo55/37458621/215120
 
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="TV Paga",Tooncast
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/617401cd-ce9c-41f4-87be-7ae82df60622.m3u8
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="Niños",Tooncast
+http://bgdc.live:25461/joesardo55/37458621/215217
 
-#EXTINF:-1 tvg-id="DisneyChannel" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="TV Paga",Disney Channel
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/1b52e926-07a8-4e84-8987-5ebd0616d968.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Niños",Disney Channel
+http://bgdc.live:25461/joesardo55/37458621/215137
 
-#EXTINF:-1 tvg-id="DisneyJr" tvg-name="Disney Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/1200px-2024_Disney_Jr._Logo.svg.png" group-title="TV Paga",Disney Jr
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/ce5d7008-1240-4d18-adc7-16d22dda1b9c.m3u8
+#EXTINF:-1 tvg-id="DisneyJr" tvg-name="Disney Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/1200px-2024_Disney_Jr._Logo.svg.png" group-title="Niños",Disney Jr
+http://bgdc.live:25461/joesardo55/37458621/215138
 
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://1000marcas.net/wp-content/uploads/2025/01/TNT-Logo.png" group-title="TV Paga",TNT
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/fad6e3ab-5b75-4df4-b19f-7dbf4f0f4374.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://1000marcas.net/wp-content/uploads/2025/01/TNT-Logo.png" group-title="Cable",TNT
+http://bgdc.live:25461/joesardo55/37458621/215214
 
 #EXTINF:-1 tvg-id="TNTSeries" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/TNT_Serie_Logo_2016.svg/250px-TNT_Serie_Logo_2016.svg.png" group-title="TV Paga",TNT Series
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/a4472660-2704-437b-acb8-4c86b89b67ad.m3u8
@@ -85,13 +91,4 @@ http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/a9bfbfac-6cbc-4f8c-b193-9f5b
 
 #EXTINF:-1 tvg-id="Milenio" tvg-name="Milenio Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="TV Paga",Milenio Noticias
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/bc1ebac2-5f21-4846-b191-b6714d637c7e.m3u8
-
-
-
-
-
-
-
-
-
 
