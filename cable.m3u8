@@ -1,94 +1,128 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx6UrxWKjyK6worloYENXKSi/m3u8
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx46EvSZJw9Pwzrlhp93KwIs/ts
+#EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx7bGI2qCc5Xaw7yLAahFedm/m3u8
+#EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx4XHooTk5yH3ZWhozNwSDdK/ts
+#EXTINF:-1 tvg-id="espn5" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png" group-title="Deportes",ESPN 5
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx60ZGuUm5SxwZzOjs9mFx5-/ts
+#EXTINF:-1 tvg-id="espn6" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1024px-ESPN_6_logo.svg.png" group-title="Deportes",ESPN 6
+http://goflixpro.com:8080/GabrielaD019/TD5JhvpSxCkd/458644
+#EXTINF:-1 tvg-id="espn7" tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx6ljNW9KrSZIkCk-LgYWCZY/ts
+#EXTINF:-1 tvg-id="espndeportes" tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Deportes",ESPN Deportes
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx4SzAC3Z8YuHNCcyri_Sh9U/ts
+#EXTINF:-1 tvg-id="foxsportsar" tvg-name="Fox Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="Deportes",Fox Sports Argentina
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx4A4FgOWLDDirnlFpPNqR1m/m3u8
+#EXTINF:-1 tvg-id="foxsportsar2" tvg-name="Fox Sports 2 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Deportes",Fox Sports 2 Argentina
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx6TeTPjN-MYulVQCJzVdFHE/ts
+#EXTINF:-1 tvg-id="foxsportsar3" tvg-name="Fox Sports 3 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Fox_Sports_3_Argentina_2023.png" group-title="Deportes",Fox Sports 3 Argentina
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx6meS2xI4cvUzI1j_1nkxmM/m3u8
+#EXTINF:-1 tvg-id="espnmx" tvg-name="ESPN México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN México
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx6iSxibvipJG1bbaS7BcFy-/m3u8
+#EXTINF:-1 tvg-id="espn2mx" tvg-name="ESPN 2 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 México
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx6SRGViB-e5lek9RRO2YFPL/m3u8
+#EXTINF:-1 tvg-id="espn3mx" tvg-name="ESPN 3 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 México
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx7TjLgBPLyfpQlk-_kELJjv/m3u8
+#EXTINF:-1 tvg-id="foxsportsmx" tvg-name="Fox Sports México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/2560px-FOX_Sports_logo.svg.png" group-title="Deportes",Fox Sports México
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx7wdq7Q9p7XSeqJKgRr4yJ0/ts
+#EXTINF:-1 tvg-id="foxsport2smx" tvg-name="Fox Sports 2 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/2560px-Fox_sports_2_logo.svg.png" group-title="Deportes",Fox Sports 2 México
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx49GfRKlPe4sisgR-JAiyXS/ts
+#EXTINF:-1 tvg-id="foxsport3smx" tvg-name="Fox Sports 3 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="Deportes",Fox Sports 3 México
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx7AzsCLvl5dNUHq4gXhkX8x/ts
+#EXTINF:-1 tvg-id="foxsportspremium" tvg-name="Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png" group-title="Deportes",Fox Sports Premium
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx5QvlZFmklI07Ee7s1jXAzR/ts
+#EXTINF:-1 tvg-id="directvsports" tvg-name="Direct TV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",Direct TV Sports
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx48R_ocLxIODTWMDyR7ruBi/ts
+#EXTINF:-1 tvg-id="directvsports2" tvg-name="Direct TV Sports 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/skuq0t1642114108.png" group-title="Deportes",Direct TV Sports 2
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx6N1FvkfKukQ-ZKtx7_xv96/ts
+#EXTINF:-1 tvg-id="directvsports+" tvg-name="Direct TV Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",Direct TV Sports+
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx6orIblDajascOrIsqCXjWW/ts
+#EXTINF:-1 tvg-id="tycsports" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="Deportes",TyC Sports
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx5JY2ybXZC4SuR5zCD0N1M8/ts
+#EXTINF:-1 tvg-id="aymsports" tvg-name="AyM Sports" tvg-logo="https://aymsports.net/wp-content/themes/aym-sports/assets/images/logo.png" group-title="Deportes",AyM Sports
+https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
+#EXTINF:-1 tvg-id="aztecadeportes" tvg-name="Azteca Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aztecadeporteslogo.png/250px-Aztecadeporteslogo.png" group-title="Deportes",Azteca Deportes
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx68kznL0UtY5v_eKjgOL5f2/ts
+#EXTINF:-1 tvg-id="CLARO" tvg-name="Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1600px-Claro_Sports_logo.svg.png" group-title="Deportes",Claro Sports
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
+#EXTINF:-1 tvg-id="ITV" tvg-name="ITV Deportes" tvg-logo="https://www.lg.com/content/dam/channel/wcms/mx/2025/march/lg-channels/imágenes-actualizadas/deportes/03_Deportes_ITV-Deportes_001.png" group-title="Deportes",ITV Deportes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
+#EXTINF:-1 tvg-id="Sky Sports" tvg-name="Sky Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249" group-title="Deportes",Sky Sports
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx59enmpn8s3X7GUnIF5rCaP/m3u8
+#EXTINF:-1 tvg-id="TUDNUSA" tvg-name="TUDN (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN (USA)
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx6a6qAMXFX2G9xFu0HzjeUW/ts
+#EXTINF:-1 tvg-id="TUDNMX" tvg-name="TUDN (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN (MX)
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx5JYlsGtWXH8VX72nX5MdVQ/m3u8
+#EXTINF:-1 tvg-id="DAZNF1" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="Deportes",DAZN F1
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx5xKXhbeHH-EzzMrNwvJx6w/ts
+#EXTINF:-1 tvg-id="SKYSPORTSMAINEVENT" tvg-name="SKYSPORTS MAIN EVENT" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/a/a1/Sky_Sports_Main_Event_%282020%29.png/revision/latest/scale-to-width-down/1280?cb=20220227231333" group-title="Deportes",SKYSPORTS MAIN EVENT
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx6ruYMwN-ghuoQEBd7-1JLq/m3u8
+#EXTINF:-1 tvg-id="DAZNLALIGA" tvg-name="DAZN LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/DAZN_LALIGA_2024_logo.svg/1200px-DAZN_LALIGA_2024_logo.svg.png" group-title="Deportes",DAZN LaLiga
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx5-ZsEuecPGk5VYDYKS8cwl/ts
+#EXTINF:-1 tvg-id="MOVISTARLIGADECAMPEONES" tvg-name="Movistar Liga De Campeones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1280px-Movistar_Liga_de_Campeones.svg.png" group-title="Deportes",Movistar Liga De Campeones
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx5hEwNze-0EHLjWmBED-4Mw/ts
+#EXTINF:-1 tvg-id="DAZN LIGA" tvg-name="DAZN LIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Deportes",DAZN Liga
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx5QzBZfLQvS9vXm35kDo96K/m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://1000marcas.net/wp-content/uploads/2025/01/TNT-Logo.png" group-title="Cable",TNT
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx5G9D-aMd5beuQr8xMVpj5I/ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1280px-National-Geographic-Logo.svg.png" group-title="Cable",National Geographic
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx5DpV2M0gqVqvEskQ4c4t4V/ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png" group-title="Cable",MTV
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx7h-E5VJM3TiQYFuJyZZsQ6/ts
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="Cable",History Channel
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx6LzEFlS1HN1AGzs1cECTd2/ts
+#EXTINF:-1 tvg-id="Golden" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Cable",Golden
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx5N2kWu7cEDGYWQK8zbEcR-/ts
+#EXTINF:-1 tvg-id="GoldenEdge" tvg-name="Golden Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="Cable",Golden Edge
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx6IXMsK1GlYqMyGIua9WxWR/ts
+#EXTINF:-1 tvg-id="Entertainment" tvg-name="E! Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/E%21_Logo.svg" group-title="Cable",E! Entertainment
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx51U_VYfgaOO1lkWkaJtqDY/ts
+#EXTINF:-1 tvg-id="DistritoComedia" tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Cable",Distrito Comedia
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx43-hAKCcF1U-WChYhdSHkE/ts
+#EXTINF:-1 tvg-id="DISCOVERYH&H" tvg-name="Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="Cable",Discovery Home & Health
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx7al1Qi-i4LQxWK6qSi6NM_/ts
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Cable",Animal Planet
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx7TM0P6Ze50SGGZZgtEHBIu/ts
+#EXTINF:-1 tvg-id="TelemundoInt" tvg-name="Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="Cable",Telemundo Internacional
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx7u2n-LUtOWX0T3Z7ogIH2g/ts
+#EXTINF:-1 tvg-id="MILENIO" tvg-name="Milenio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="Cable",Milenio TV
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx6agZ7Pq304XbDbi2zAdSlw/ts
+#EXTINF:-1 tvg-id="Telemundo Dallas" tvg-name="Telemundo Dallas" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/WKAQ-TV2_%28Telemundo_Puerto_Rico_2018%29.svg/revision/latest/scale-to-width-down/200?cb=20210112173713" group-title="Cable",Telemundo Dallas
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx7Vc4hOC18zS800UTRD3X_E/m3u8
 #EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="TV Abierta",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="TV Abierta",Azteca 7
-http://bgdc.live:25461/joesardo55/37458621/215104
-
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/2181px-Las_Estrellas_logo_%282016%29.svg.pn" group-title="TV Abierta",Las Estrellas
-http://bgdc.live:25461/joesardo55/37458621/215183
-
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-México.png" group-title="TV Abierta",Canal 5
-http://bgdc.live:25461/joesardo55/37458621/215115
-
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Cable",Animal Planet
-http://bgdc.live:25461/joesardo55/37458621/215100
-
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="TV Paga",Cinemax
-http://bgdc.live:25461/joesardo55/37458621/215123
-
-#EXTINF:-1 tvg-id="CNNESP" tvg-name="CNN en español" tvg-logo="https://download.logo.wine/logo/CNN/CNN-Logo.wine.png" group-title="TV Paga",CNN en Español
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/b6069637-3bb9-41d2-a8d2-34a2c60cf5fc.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/512px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TV Paga",Discovery Channel
-http://bgdc.live:25461/joesardo55/37458621/215130
-
-#EXTINF:-1 tvg-id="DISCOVERYH&H" tvg-name="Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="Cable",Discovery Home & Health
-http://bgdc.live:25461/joesardo55/37458621/215131
-
-#EXTINF:-1 tvg-id="DiscoveryID" tvg-name="Discovery Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="TV Paga",Investigation Discovery
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/c2486ba9-3ca9-4ffd-b80b-da03b2e24410.m3u8
-
-#EXTINF:-1 tvg-id="DistritoComedia" tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Cable",Distrito Comedia
-http://bgdc.live:25461/joesardo55/37458621/215139
-
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/Comedy-Central-Productions-Logo.png" group-title="Cable",Comedy Central
-http://bgdc.live:25461/joesardo55/37458621/215126
-
-#EXTINF:-1 tvg-id="Entertainment" tvg-name="E! Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/E%21_Logo.svg" group-title="Cable",E! Entertainment
-http://bgdc.live:25461/joesardo55/37458621/215142
-
-#EXTINF:-1 tvg-id="ForoTV" tvg-name="Foro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="TV Paga",Foro TV
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/50fd0b11-3475-4c63-815b-9e02bc1ad753.m3u8
-
-#EXTINF:-1 tvg-id="GoldenEdge" tvg-name="Golden Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="Cable",Golden Edge
-http://bgdc.live:25461/joesardo55/37458621/215161
-
-#EXTINF:-1 tvg-id="GoldenPremier" tvg-name="Golden Premier" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Golden_Premier_print.svg/revision/latest?cb=20250302153714" group-title="Cable",Golden Premier
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/31294543-9bc2-4846-95b5-f538c2ad1390.m3u8
-
-#EXTINF:-1 tvg-id="Golden" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Cable",Golden
-http://bgdc.live:25461/joesardo55/37458621/215160
-
-#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="Cable",History Channel
-http://bgdc.live:25461/joesardo55/37458621/215177
-
-#EXTINF:-1 tvg-id="TelemundoInternacional" tvg-name="Telemundo Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Telemundo_Internacional_2013_2D.png/revision/latest?cb=20190719154226&path-prefix=es" group-title="TV Paga",Telemundo Internacional
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/8b7cc655-bd20-4ee4-bb8a-66c497664286.m3u8
-
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png" group-title="Cable",MTV
-http://bgdc.live:25461/joesardo55/37458621/215187
-
-#EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1280px-National-Geographic-Logo.svg.png" group-title="Cable",National Geographic
-http://bgdc.live:25461/joesardo55/37458621/215193
-
+http://24.152.53.3:8090/play/a013/index.m3u8?hls
+#EXTINF:-1 tvg-id="Cana5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-México.png" group-title="TV Abierta",Canal 5
+https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/2181px-Las_Estrellas_logo_%282016%29.svg.png" group-title="TV Abierta",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="NickJR" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Niños",Nick Jr
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx7rqO7n2GnWSfP5ZUey0eG6/ts
 #EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Niños",Discovery Kids
-http://bgdc.live:25461/joesardo55/37458621/215132
-
-#EXTINF:-1 tvg-id="Nick" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Nickelodeon-png-clipart-logo.png" group-title="TV Paga",Nickelodeon
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/d995df8b-5dbf-45ab-a144-735f6b421136.m3u8
-
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx6imgTgVW3HbS_OKPtzL0dY/ts
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nickelodeon.png" group-title="Niños",Nickelodeon
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx4UxP43y1CGhAXF_EFGYywh/ts
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cartoon_network_modified_logo.PNG/1200px-Cartoon_network_modified_logo.PNG" group-title="Niños",Cartoon Network
-http://bgdc.live:25461/joesardo55/37458621/215120
-
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx7IBgbxAs8EBy5czZfksOPj/ts
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="Niños",Tooncast
 http://bgdc.live:25461/joesardo55/37458621/215217
-
 #EXTINF:-1 tvg-id="DisneyChannel" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Niños",Disney Channel
-http://bgdc.live:25461/joesardo55/37458621/215137
-
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx5kAemAYyF1uQQCVEEKIu1A/ts
 #EXTINF:-1 tvg-id="DisneyJr" tvg-name="Disney Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/1200px-2024_Disney_Jr._Logo.svg.png" group-title="Niños",Disney Jr
-http://bgdc.live:25461/joesardo55/37458621/215138
-
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://1000marcas.net/wp-content/uploads/2025/01/TNT-Logo.png" group-title="Cable",TNT
-http://bgdc.live:25461/joesardo55/37458621/215214
-
-#EXTINF:-1 tvg-id="TNTSeries" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/TNT_Serie_Logo_2016.svg/250px-TNT_Serie_Logo_2016.svg.png" group-title="TV Paga",TNT Series
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/a4472660-2704-437b-acb8-4c86b89b67ad.m3u8
-
-#EXTINF:-1 tvg-id="Telehit" tvg-name="Telehit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png" group-title="TV Paga",Telehit
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/a9bfbfac-6cbc-4f8c-b193-9f5b3a1d0694.m3u8
-
-#EXTINF:-1 tvg-id="Milenio" tvg-name="Milenio Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="TV Paga",Milenio Noticias
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/bc1ebac2-5f21-4846-b191-b6714d637c7e.m3u8
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx5nXzItE7O8klAqu56PX9Aq/ts
+#EXTINF:-1 tvg-id="LAKERSEVENTS" tvg-name="Eventos: L.A. Lakers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/2560px-Los_Angeles_Lakers_logo.svg.png" group-title="Eventos",Los Angeles Lakers Games
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx79jnqAhuMfRXSeHQBBddDu/m3u8
+#EXTINF:-1 tvg-id="ATLASEVENTS" tvg-name="Eventos: Atlas FC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fútbol_Club_Atlas.svg/1827px-Fútbol_Club_Atlas.svg.png" group-title="Eventos",Atlas FC Partidos
+http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/474575.ts
+#EXTINF:-1 tvg-id="CHIVASEVENTS" tvg-name="Eventos: Chivas" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Chivas-Logo-2018.png" group-title="Eventos",Chivas FC Partidos
+https://afy4c.envivoslatam.org/eventos/tracks-v1a1/mono.m3u8?ip=187.140.229.199&token=2769494bb9c874bcc302f80977f727a6cd56611f-68-1779028716-1778974716
+#EXTINF:-1 tvg-id="CDLFUSA" tvg-name="Casa De Los Famosos USA CAM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/La_casa_de_los_famosos_series_logo.png" group-title="La Casa De Los Famosos USA",La Casa De Los Famosos USA Cam 1
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx4wvcspzahCjeNaNAxz8a_H/ts
+#EXTINF:-1 tvg-id="CDLFUSA" tvg-name="Casa De Los Famosos USA CAM 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/La_casa_de_los_famosos_series_logo.png" group-title="La Casa De Los Famosos USA",La Casa De Los Famosos USA Cam 2
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx67n3w9PGgERqTe-0BvPXY9/ts
 
