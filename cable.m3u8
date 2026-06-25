@@ -51,7 +51,7 @@ http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx68kznL
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:-1 tvg-id="ITV" tvg-name="ITV Deportes" tvg-logo="https://www.lg.com/content/dam/channel/wcms/mx/2025/march/lg-channels/imágenes-actualizadas/deportes/03_Deportes_ITV-Deportes_001.png" group-title="Deportes",ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
-#EXTINF:-1 tvg-id="Sky Sports" tvg-name="Sky Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249" group-title="Deportes",Sky Sports
+#EXTINF:-1 tvg-id="Sky Sports" tvg-name="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/960px-Sky_Sports_logo_2020.svg.png" group-title="Deportes",Sky Sports
 http://icomplay.net:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx59enmpn8s3X7GUnIF5rCaP/ts
 #EXTINF:-1 tvg-id="TUDNUSA" tvg-name="TUDN (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN (USA)
 http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx6a6qAMXFX2G9xFu0HzjeUW/ts
