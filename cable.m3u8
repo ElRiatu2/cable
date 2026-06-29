@@ -124,4 +124,4 @@ http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/474575.ts
 #EXTINF:-1 tvg-id="CHIVASEVENTS" tvg-name="Eventos: Chivas" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Chivas-Logo-2018.png" group-title="Eventos",Chivas FC Partidos
 https://afy4c.envivoslatam.org/eventos/tracks-v1a1/mono.m3u8?ip=187.140.229.199&token=2769494bb9c874bcc302f80977f727a6cd56611f-68-1779028716-1778974716
 #EXTINF:-1 tvg-id="Mundial 4K" tvg-name="Mundial 4K" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/new-FIFA-World-Cup-2026-logo-black-PNG-large-size.png" group-title="Mundial 4k",Mundial 4K
-http://192.168.1.96:9999/live.mp4
+http://192.168.1.96:9999/live.ts
