@@ -36,9 +36,9 @@ http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx7AzsCL
 #EXTINF:-1 tvg-id="foxsportspremium" tvg-name="Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png" group-title="Deportes",Fox Sports Premium
 http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx5QvlZFmklI07Ee7s1jXAzR/ts
 #EXTINF:-1 tvg-id="directvsports" tvg-name="Direct TV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",Direct TV Sports
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx48R_ocLxIODTWMDyR7ruBi/ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/652573.ts
 #EXTINF:-1 tvg-id="directvsports2" tvg-name="Direct TV Sports 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/skuq0t1642114108.png" group-title="Deportes",Direct TV Sports 2
-http://icomplay.net:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx7ELsf-hswfMq1_unomIj8l/ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/825844.ts
 #EXTINF:-1 tvg-id="directvsports+" tvg-name="Direct TV Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",Direct TV Sports+
 http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx6orIblDajascOrIsqCXjWW/ts
 #EXTINF:-1 tvg-id="tycsports" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="Deportes",TyC Sports
@@ -56,7 +56,7 @@ http://icomplay.net:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx59enmpn8s3
 #EXTINF:-1 tvg-id="TUDNUSA" tvg-name="TUDN (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN (USA)
 http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx6a6qAMXFX2G9xFu0HzjeUW/ts
 #EXTINF:-1 tvg-id="TUDNMX" tvg-name="TUDN (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN (MX)
-http://icomplay.net:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx6ts79Qaisv_YwFllUAg3DM/ts
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx5JYlsGtWXH8VX72nX5MdVQ/m3u8
 #EXTINF:-1 tvg-id="DAZNF1" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="Deportes",DAZN F1
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826243.ts
 #EXTINF:-1 tvg-id="SKYSPORTSMAINEVENT" tvg-name="SKYSPORTS MAIN EVENT" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/a/a1/Sky_Sports_Main_Event_%282020%29.png/revision/latest/scale-to-width-down/1280?cb=20220227231333" group-title="Deportes",SKYSPORTS MAIN EVENT
@@ -98,9 +98,9 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826684.ts
 #EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="TV Abierta",Azteca Uno
 http://icomplay.net:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx4LhL0mX8LOueieWGfVq-W6/ts
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="TV Abierta",Azteca 7
-http://icomplay.net:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx7CCsjE40vHv0EgXuPI9qiV/ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/822973.ts
 #EXTINF:-1 tvg-id="Cana5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-México.png" group-title="TV Abierta",Canal 5
-http://icomplay.net:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx6EATdMz7H_XTUVM84Qk8IG/ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/822952.ts
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/2181px-Las_Estrellas_logo_%282016%29.svg.png" group-title="TV Abierta",Las Estrellas
 http://icomplay.net:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx52nat9ykGILUV8lziAPFp8/ts
 #EXTINF:-1 tvg-id="NickJR" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Niños",Nick Jr
