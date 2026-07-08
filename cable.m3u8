@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN
-http://icomplay.net:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx6gegUlExTcFmJF0IfWTRqT/ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653213.ts
 #EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx46EvSZJw9Pwzrlhp93KwIs/ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653223.ts
 #EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3
-http://icomplay.net:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx4dCNhoQLOq6wIUFsYkm0Uf/ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653230.ts
 #EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx4XHooTk5yH3ZWhozNwSDdK/ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/825827.ts
 #EXTINF:-1 tvg-id="espn5" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png" group-title="Deportes",ESPN 5
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx60ZGuUm5SxwZzOjs9mFx5-/ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653236.ts
 #EXTINF:-1 tvg-id="espn6" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1024px-ESPN_6_logo.svg.png" group-title="Deportes",ESPN 6
-http://icomplay.net:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx4F6kPjqBR_axkz7S8N61Zw/ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653238.ts
 #EXTINF:-1 tvg-id="espn7" tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx6ljNW9KrSZIkCk-LgYWCZY/ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653240.ts
 #EXTINF:-1 tvg-id="espndeportes" tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Deportes",ESPN Deportes
-http://icomplay.net:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx5xOihQJR9gwOERPxKdoHvz/ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826194.ts
 #EXTINF:-1 tvg-id="foxsportsar" tvg-name="Fox Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="Deportes",Fox Sports Argentina
 http://icomplay.net:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx4A4FgOWLDDirnlFpPNqR1m/ts
 #EXTINF:-1 tvg-id="foxsportsar2" tvg-name="Fox Sports 2 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Deportes",Fox Sports 2 Argentina
