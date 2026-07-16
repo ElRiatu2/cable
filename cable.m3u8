@@ -13,7 +13,7 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653236.ts
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653238.ts
 #EXTINF:-1 tvg-id="espn7" tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653240.ts
-#EXTINF:-1 tvg-id="espndeportes" tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Deportes",ESPN Deportes
+#EXTINF:-1 tvg-id="espn_deportes" tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Deportes",ESPN Deportes
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826194.ts
 #EXTINF:-1 tvg-id="foxsportsar" tvg-name="Fox Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="Deportes",Fox Sports Argentina
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826198.ts
@@ -21,19 +21,19 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826198.ts
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826200.ts
 #EXTINF:-1 tvg-id="foxsportsar3" tvg-name="Fox Sports 3 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Fox_Sports_3_Argentina_2023.png" group-title="Deportes",Fox Sports 3 Argentina
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/825840.ts
-#EXTINF:-1 tvg-id="espnmx" tvg-name="ESPN México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN México
+#EXTINF:-1 tvg-id="espn_mexico" tvg-name="ESPN México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN México
 http://icomplay.net:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx7ATxItJ-q0xTOXj8p6pG60/ts
-#EXTINF:-1 tvg-id="espn2mx" tvg-name="ESPN 2 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 México
+#EXTINF:-1 tvg-id="espn_2" tvg-name="ESPN 2 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 México
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826185.ts
-#EXTINF:-1 tvg-id="espn3mx" tvg-name="ESPN 3 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 México
+#EXTINF:-1 tvg-id="espn_3" tvg-name="ESPN 3 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 México
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826186.ts
-#EXTINF:-1 tvg-id="foxsportsmx" tvg-name="Fox Sports México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/2560px-FOX_Sports_logo.svg.png" group-title="Deportes",Fox Sports México
+#EXTINF:-1 tvg-id="Canal Fox Sports" tvg-name="Fox Sports México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/2560px-FOX_Sports_logo.svg.png" group-title="Deportes",Fox Sports México
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826205.ts
 #EXTINF:-1 tvg-id="foxsport2smx" tvg-name="Fox Sports 2 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/2560px-Fox_sports_2_logo.svg.png" group-title="Deportes",Fox Sports 2 México
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826206.ts
 #EXTINF:-1 tvg-id="foxsport3smx" tvg-name="Fox Sports 3 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="Deportes",Fox Sports 3 México
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826380.ts
-#EXTINF:-1 tvg-id="foxdeportes" tvg-name="Fox Sports Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="Deportes",Fox Sports Deportes
+#EXTINF:-1 tvg-id="fox_deportes" tvg-name="Fox Sports Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="Deportes",Fox Sports Deportes
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826216.ts
 #EXTINF:-1 tvg-id="foxsportspremium" tvg-name="Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png" group-title="Deportes",Fox Sports Premium
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826381.ts
@@ -45,11 +45,11 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/825844.ts
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826220.ts
 #EXTINF:-1 tvg-id="tycsports" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="Deportes",TyC Sports
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/221579.ts
-#EXTINF:-1 tvg-id="aymsports" tvg-name="AyM Sports" tvg-logo="https://aymsports.net/wp-content/themes/aym-sports/assets/images/logo.png" group-title="Deportes",AyM Sports
+#EXTINF:-1 tvg-id="aym_sports" tvg-name="AyM Sports" tvg-logo="https://aymsports.net/wp-content/themes/aym-sports/assets/images/logo.png" group-title="Deportes",AyM Sports
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 #EXTINF:-1 tvg-id="aztecadeportes" tvg-name="Azteca Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aztecadeporteslogo.png/250px-Aztecadeporteslogo.png" group-title="Deportes",Azteca Deportes
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/664031.ts
-#EXTINF:-1 tvg-id="CLARO" tvg-name="Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1600px-Claro_Sports_logo.svg.png" group-title="Deportes",Claro Sports
+#EXTINF:-1 tvg-id="claro_sports" tvg-name="Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1600px-Claro_Sports_logo.svg.png" group-title="Deportes",Claro Sports
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:-1 tvg-id="ITV" tvg-name="ITV Deportes" tvg-logo="https://www.lg.com/content/dam/channel/wcms/mx/2025/march/lg-channels/imágenes-actualizadas/deportes/03_Deportes_ITV-Deportes_001.png" group-title="Deportes",ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
@@ -61,7 +61,7 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/664055.ts
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/896649.ts
 #EXTINF:-1 tvg-id="DAZNF1" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="Deportes",DAZN F1
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826243.ts
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://1000marcas.net/wp-content/uploads/2025/01/TNT-Logo.png" group-title="Cable",TNT
+#EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="https://1000marcas.net/wp-content/uploads/2025/01/TNT-Logo.png" group-title="Cable",TNT
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/652623.ts
 #EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1280px-National-Geographic-Logo.svg.png" group-title="Cable",National Geographic
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/652921.ts
