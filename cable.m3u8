@@ -33,6 +33,8 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826205.ts
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826206.ts
 #EXTINF:-1 tvg-id="foxsport3smx" tvg-name="Fox Sports 3 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="Deportes",Fox Sports 3 México
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826380.ts
+#EXTINF:-1 tvg-id="foxdeportes" tvg-name="Fox Sports Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="Deportes",Fox Sports Deportes
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826216.ts
 #EXTINF:-1 tvg-id="foxsportspremium" tvg-name="Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png" group-title="Deportes",Fox Sports Premium
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826381.ts
 #EXTINF:-1 tvg-id="directvsports" tvg-name="Direct TV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",Direct TV Sports
