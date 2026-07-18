@@ -59,8 +59,8 @@ http://icomplay.net:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx59enmpn8s3
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/664055.ts
 #EXTINF:-1 tvg-id="TUDNMX" tvg-name="TUDN (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN (MX)
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/664055.ts
-#EXTINF:-1 tvg-id="caliente_tv" tvg-name="Caliente TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Caliente_TV_Logo.png" group-title="Deportes",Caliente TV
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1050645.ts
+#EXTINF:-1 tvg-id="Fox One" tvg-name="Fox One" tvg-logo="https://paulbunyan.net/wp-content/uploads/2025/10/Fox-One-Logo-500x136.png" group-title="Deportes",Fox One
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1036300.ts
 #EXTINF:-1 tvg-id="DAZNF1" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="Deportes",DAZN F1
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826243.ts
 #EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="https://1000marcas.net/wp-content/uploads/2025/01/TNT-Logo.png" group-title="Cable",TNT
