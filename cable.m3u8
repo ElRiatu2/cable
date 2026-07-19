@@ -115,4 +115,5 @@ http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx5nXzIt
 http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx79jnqAhuMfRXSeHQBBddDu/m3u8
 #EXTINF:-1 tvg-id="LigaMX" tvg-name="Liga MX Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="Deportes",Liga MX Premium
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1053318.ts
-
+#EXTINF:-1 tvg-id="CHIVASEVENTS" tvg-name="Eventos: Chivas" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Chivas-Logo-2018.png" group-title="Eventos",Chivas FC Partidos
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1053364.ts 
