@@ -117,3 +117,5 @@ http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx79jnqA
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1053372.ts
 #EXTINF:-1 tvg-id="CHIVASEVENTS" tvg-name="Eventos: Chivas" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Chivas-Logo-2018.png" group-title="Eventos",Chivas FC Partidos
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1053364.ts 
+#EXTINF:-1 tvg-id="VIX" tvg-name="Vix Pase Mundial" tvg-logo="https://media.bolavip.com/wp-content/uploads/sites/23/2026/06/10164341/Pase-Mundial-ViX-Premium-740x416.webp" group-title="Vix Pase Mundial",Vix Pase Mundial (Solo eventos)
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1053919.ts
