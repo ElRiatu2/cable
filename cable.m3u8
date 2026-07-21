@@ -22,7 +22,7 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826200.ts
 #EXTINF:-1 tvg-id="foxsportsar3" tvg-name="Fox Sports 3 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Fox_Sports_3_Argentina_2023.png" group-title="Deportes",Fox Sports 3 Argentina
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/825840.ts
 #EXTINF:-1 tvg-id="espn_mexico" tvg-name="ESPN México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN México
-http://icomplay.net:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx7ATxItJ-q0xTOXj8p6pG60/ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826183.ts
 #EXTINF:-1 tvg-id="espn_2" tvg-name="ESPN 2 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 México
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826185.ts
 #EXTINF:-1 tvg-id="espn_3" tvg-name="ESPN 3 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 México
@@ -103,14 +103,8 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826495.ts
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826490.ts
 #EXTINF:-1 tvg-id="Nick" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nickelodeon.png" group-title="Niños",Nickelodeon
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826502.ts
-#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cartoon_network_modified_logo.PNG/1200px-Cartoon_network_modified_logo.PNG" group-title="Niños",Cartoon Network
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826481.ts
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="Niños",Tooncast
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826496.ts
-#EXTINF:-1 tvg-id="DisneyChannel" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="Niños",Disney Channel
-http://icomplay.net:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx5kAemAYyF1uQQCVEEKIu1A/ts
-#EXTINF:-1 tvg-id="DisneyJr" tvg-name="Disney Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/1200px-2024_Disney_Jr._Logo.svg.png" group-title="Niños",Disney Jr
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx5nXzItE7O8klAqu56PX9Aq/ts
 #EXTINF:-1 tvg-id="LAKERSEVENTS" tvg-name="Eventos: L.A. Lakers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/2560px-Los_Angeles_Lakers_logo.svg.png" group-title="Eventos",Los Angeles Lakers Games
 http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx79jnqAhuMfRXSeHQBBddDu/m3u8
 #EXTINF:-1 tvg-id="LigaMX" tvg-name="Liga MX Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="Deportes",Liga MX Premium
