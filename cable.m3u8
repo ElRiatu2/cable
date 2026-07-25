@@ -92,7 +92,7 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/834295.ts
 #EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="TV Abierta",Azteca Uno
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/663797.ts
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="TV Abierta",Azteca 7
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/822973.ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/822982.ts
 #EXTINF:-1 tvg-id="Cana5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-México.png" group-title="TV Abierta",Canal 5
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/822952.ts
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/2181px-Las_Estrellas_logo_%282016%29.svg.png" group-title="TV Abierta",Las Estrellas
@@ -108,7 +108,7 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826496.ts
 #EXTINF:-1 tvg-id="LAKERSEVENTS" tvg-name="Eventos: L.A. Lakers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/2560px-Los_Angeles_Lakers_logo.svg.png" group-title="Eventos",Los Angeles Lakers Games
 http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx79jnqAhuMfRXSeHQBBddDu/m3u8
 #EXTINF:-1 tvg-id="LigaMX" tvg-name="Liga MX Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="Deportes",Liga MX Premium
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1036300.ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1064067.ts
 #EXTINF:-1 tvg-id="CHIVASEVENTS" tvg-name="Eventos: Chivas" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Chivas-Logo-2018.png" group-title="Eventos",Chivas FC Partidos
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1053364.ts
 #EXTINF:-1 tvg-id="LAVELADA" tvg-name="La Velada Del Año VI" tvg-logo="https://la-velada.netlify.app/logo-footer.png" group-title="Eventos",La Velada Del Año VI
