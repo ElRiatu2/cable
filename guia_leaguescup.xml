@@ -17,7 +17,7 @@
     <display-name>Leagues Cup 4</display-name>
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/leagues_cup-logo_brandlogos.net_gxi1m.png" />
   </channel>
-  <programme start="20260807234503 +0000" stop="20260808014500 +0000" channel="LeaguesCup1">
+  <programme start="20260808000004 +0000" stop="20260808014500 +0000" channel="LeaguesCup1">
     <title lang="es">Charlotte FC vs. Atlas FC (En Vivo)</title>
     <desc lang="es">Transmisión en vivo de la Leagues Cup: Charlotte FC vs. Atlas FC.</desc>
     <category lang="es">Deportes</category>
@@ -37,7 +37,7 @@
     <desc lang="es">Programación continua de la Leagues Cup. Los eventos en vivo iniciarán según el horario del partido.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260807234503 +0000" stop="20260808014500 +0000" channel="LeaguesCup2">
+  <programme start="20260808000004 +0000" stop="20260808014500 +0000" channel="LeaguesCup2">
     <title lang="es">Columbus Crew vs. Pachuca (En Vivo)</title>
     <desc lang="es">Transmisión en vivo de la Leagues Cup: Columbus Crew vs. Pachuca.</desc>
     <category lang="es">Deportes</category>
@@ -47,7 +47,7 @@
     <desc lang="es">Programación continua de la Leagues Cup. Los eventos en vivo iniciarán según el horario del partido.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260807234503 +0000" stop="20260808021500 +0000" channel="LeaguesCup3">
+  <programme start="20260808000004 +0000" stop="20260808021500 +0000" channel="LeaguesCup3">
     <title lang="es">FC Cincinnati vs. Pumas UNAM (En Vivo)</title>
     <desc lang="es">Transmisión en vivo de la Leagues Cup: FC Cincinnati vs. Pumas UNAM.</desc>
     <category lang="es">Deportes</category>
@@ -57,7 +57,7 @@
     <desc lang="es">Programación continua de la Leagues Cup. Los eventos en vivo iniciarán según el horario del partido.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260807234503 +0000" stop="20260808010000 +0000" channel="LeaguesCup4">
+  <programme start="20260808000004 +0000" stop="20260808010000 +0000" channel="LeaguesCup4">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
     <desc lang="es">Programación continua de la Leagues Cup. Los eventos en vivo iniciarán según el horario del partido.</desc>
     <category lang="es">Deportes</category>
