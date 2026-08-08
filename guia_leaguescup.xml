@@ -17,7 +17,7 @@
     <display-name>Leagues Cup 4</display-name>
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/leagues_cup-logo_brandlogos.net_gxi1m.png" />
   </channel>
-  <programme start="20260808133006 +0000" stop="20260808223000 +0000" channel="LeaguesCup1">
+  <programme start="20260808000000 +0000" stop="20260808223000 +0000" channel="LeaguesCup1">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
     <desc lang="es">Transmisiones, análisis y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
@@ -37,12 +37,37 @@
     <desc lang="es">Partido en vivo de la Leagues Cup: Guadalajara vs. FC Dallas.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260809031500 +0000" stop="20260810153006 +0000" channel="LeaguesCup1">
+  <programme start="20260809031500 +0000" stop="20260809193000 +0000" channel="LeaguesCup1">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
     <desc lang="es">Transmisiones, análisis y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260808133006 +0000" stop="20260809000000 +0000" channel="LeaguesCup2">
+  <programme start="20260809193000 +0000" stop="20260809214500 +0000" channel="LeaguesCup1">
+    <title lang="es">Seattle Sounders FC vs. Querétaro (En Vivo)</title>
+    <desc lang="es">Partido en vivo de la Leagues Cup: Seattle Sounders FC vs. Querétaro.</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260809214500 +0000" stop="20260809233000 +0000" channel="LeaguesCup1">
+    <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
+    <desc lang="es">Transmisiones, análisis y resúmenes de la Leagues Cup.</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260809233000 +0000" stop="20260810014500 +0000" channel="LeaguesCup1">
+    <title lang="es">Cruz Azul vs. New York City FC (En Vivo)</title>
+    <desc lang="es">Partido en vivo de la Leagues Cup: Cruz Azul vs. New York City FC.</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260810014500 +0000" stop="20260810020000 +0000" channel="LeaguesCup1">
+    <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
+    <desc lang="es">Transmisiones, análisis y resúmenes de la Leagues Cup.</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260810020000 +0000" stop="20260810041500 +0000" channel="LeaguesCup1">
+    <title lang="es">San Diego FC vs. Tijuana (En Vivo)</title>
+    <desc lang="es">Partido en vivo de la Leagues Cup: San Diego FC vs. Tijuana.</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260808000000 +0000" stop="20260809000000 +0000" channel="LeaguesCup2">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
     <desc lang="es">Transmisiones, análisis y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
@@ -62,12 +87,27 @@
     <desc lang="es">Partido en vivo de la Leagues Cup: Toluca vs. LAFC.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260809052500 +0000" stop="20260810153006 +0000" channel="LeaguesCup2">
+  <programme start="20260809052500 +0000" stop="20260809233000 +0000" channel="LeaguesCup2">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
     <desc lang="es">Transmisiones, análisis y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260808133006 +0000" stop="20260809020000 +0000" channel="LeaguesCup3">
+  <programme start="20260809233000 +0000" stop="20260810014500 +0000" channel="LeaguesCup2">
+    <title lang="es">Philadelphia Union vs. Necaxa (En Vivo)</title>
+    <desc lang="es">Partido en vivo de la Leagues Cup: Philadelphia Union vs. Necaxa.</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260810014500 +0000" stop="20260810021500 +0000" channel="LeaguesCup2">
+    <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
+    <desc lang="es">Transmisiones, análisis y resúmenes de la Leagues Cup.</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260810021500 +0000" stop="20260810043000 +0000" channel="LeaguesCup2">
+    <title lang="es">América vs. Portland Timbers (En Vivo)</title>
+    <desc lang="es">Partido en vivo de la Leagues Cup: América vs. Portland Timbers.</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260808000000 +0000" stop="20260809020000 +0000" channel="LeaguesCup3">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
     <desc lang="es">Transmisiones, análisis y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
@@ -77,14 +117,24 @@
     <desc lang="es">Partido en vivo de la Leagues Cup: Real Salt Lake vs. Atlante.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260809041500 +0000" stop="20260810153006 +0000" channel="LeaguesCup3">
+  <programme start="20260809041500 +0000" stop="20260810000000 +0000" channel="LeaguesCup3">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
     <desc lang="es">Transmisiones, análisis y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260808133006 +0000" stop="20260810153006 +0000" channel="LeaguesCup4">
+  <programme start="20260810000000 +0000" stop="20260810021500 +0000" channel="LeaguesCup3">
+    <title lang="es">Chicago Fire FC vs. Santos (En Vivo)</title>
+    <desc lang="es">Partido en vivo de la Leagues Cup: Chicago Fire FC vs. Santos.</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260808000000 +0000" stop="20260810000000 +0000" channel="LeaguesCup4">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
     <desc lang="es">Transmisiones, análisis y resúmenes de la Leagues Cup.</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260810000000 +0000" stop="20260810021500 +0000" channel="LeaguesCup4">
+    <title lang="es">Nashville SC vs. Atlético de San Luis (En Vivo)</title>
+    <desc lang="es">Partido en vivo de la Leagues Cup: Nashville SC vs. Atlético de San Luis.</desc>
     <category lang="es">Deportes</category>
   </programme>
 </tv>
