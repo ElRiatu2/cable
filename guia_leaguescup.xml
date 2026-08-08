@@ -17,69 +17,74 @@
     <display-name>Leagues Cup 4</display-name>
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/leagues_cup-logo_brandlogos.net_gxi1m.png" />
   </channel>
-  <programme start="20260808151632 +0000" stop="20260808223000 +0000" channel="LeaguesCup1">
+  <programme start="20260808132347 +0000" stop="20260808223000 +0000" channel="LeaguesCup1">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
-    <desc lang="es">Análisis, transmisiones y resúmenes de la Leagues Cup.</desc>
+    <desc lang="es">Transmisiones, análisis y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20260808223000 +0000" stop="20260809004500 +0000" channel="LeaguesCup1">
     <title lang="es">Orlando City SC vs. León (En Vivo)</title>
-    <desc lang="es">Partido en vivo: Orlando City SC vs. León.</desc>
+    <desc lang="es">Partido en vivo de la Leagues Cup: Orlando City SC vs. León.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260809004500 +0000" stop="20260809031500 +0000" channel="LeaguesCup1">
+  <programme start="20260809004500 +0000" stop="20260809010000 +0000" channel="LeaguesCup1">
+    <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
+    <desc lang="es">Transmisiones, análisis y resúmenes de la Leagues Cup.</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260809010000 +0000" stop="20260809031500 +0000" channel="LeaguesCup1">
     <title lang="es">Guadalajara vs. FC Dallas (En Vivo)</title>
-    <desc lang="es">Partido en vivo: Guadalajara vs. FC Dallas.</desc>
+    <desc lang="es">Partido en vivo de la Leagues Cup: Guadalajara vs. FC Dallas.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260809031500 +0000" stop="20260810031500 +0000" channel="LeaguesCup1">
+  <programme start="20260809031500 +0000" stop="20260810152347 +0000" channel="LeaguesCup1">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
-    <desc lang="es">Análisis, transmisiones y resúmenes de la Leagues Cup.</desc>
+    <desc lang="es">Transmisiones, análisis y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260808151632 +0000" stop="20260809000000 +0000" channel="LeaguesCup2">
+  <programme start="20260808132347 +0000" stop="20260809000000 +0000" channel="LeaguesCup2">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
-    <desc lang="es">Análisis, transmisiones y resúmenes de la Leagues Cup.</desc>
+    <desc lang="es">Transmisiones, análisis y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20260809000000 +0000" stop="20260809021500 +0000" channel="LeaguesCup2">
     <title lang="es">Inter Miami CF vs. Monterrey (En Vivo)</title>
-    <desc lang="es">Partido en vivo: Inter Miami CF vs. Monterrey.</desc>
+    <desc lang="es">Partido en vivo de la Leagues Cup: Inter Miami CF vs. Monterrey.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20260809021500 +0000" stop="20260809031000 +0000" channel="LeaguesCup2">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
-    <desc lang="es">Análisis, transmisiones y resúmenes de la Leagues Cup.</desc>
+    <desc lang="es">Transmisiones, análisis y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20260809031000 +0000" stop="20260809052500 +0000" channel="LeaguesCup2">
     <title lang="es">Toluca vs. LAFC (En Vivo)</title>
-    <desc lang="es">Partido en vivo: Toluca vs. LAFC.</desc>
+    <desc lang="es">Partido en vivo de la Leagues Cup: Toluca vs. LAFC.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260809052500 +0000" stop="20260810052500 +0000" channel="LeaguesCup2">
+  <programme start="20260809052500 +0000" stop="20260810152347 +0000" channel="LeaguesCup2">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
-    <desc lang="es">Análisis, transmisiones y resúmenes de la Leagues Cup.</desc>
+    <desc lang="es">Transmisiones, análisis y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260808151632 +0000" stop="20260809020000 +0000" channel="LeaguesCup3">
+  <programme start="20260808132347 +0000" stop="20260809020000 +0000" channel="LeaguesCup3">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
-    <desc lang="es">Análisis, transmisiones y resúmenes de la Leagues Cup.</desc>
+    <desc lang="es">Transmisiones, análisis y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
   </programme>
   <programme start="20260809020000 +0000" stop="20260809041500 +0000" channel="LeaguesCup3">
     <title lang="es">Real Salt Lake vs. Atlante (En Vivo)</title>
-    <desc lang="es">Partido en vivo: Real Salt Lake vs. Atlante.</desc>
+    <desc lang="es">Partido en vivo de la Leagues Cup: Real Salt Lake vs. Atlante.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260809041500 +0000" stop="20260810041500 +0000" channel="LeaguesCup3">
+  <programme start="20260809041500 +0000" stop="20260810152347 +0000" channel="LeaguesCup3">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
-    <desc lang="es">Análisis, transmisiones y resúmenes de la Leagues Cup.</desc>
+    <desc lang="es">Transmisiones, análisis y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260808151632 +0000" stop="20260809151632 +0000" channel="LeaguesCup4">
+  <programme start="20260808132347 +0000" stop="20260810152347 +0000" channel="LeaguesCup4">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
-    <desc lang="es">Análisis, transmisiones y resúmenes de la Leagues Cup.</desc>
+    <desc lang="es">Transmisiones, análisis y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
   </programme>
 </tv>
