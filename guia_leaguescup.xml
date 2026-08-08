@@ -17,7 +17,7 @@
     <display-name>Leagues Cup 4</display-name>
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/leagues_cup-logo_brandlogos.net_gxi1m.png" />
   </channel>
-  <programme start="20260808021503 +0000" stop="20260808044500 +0000" channel="LeaguesCup1">
+  <programme start="20260808023003 +0000" stop="20260808044500 +0000" channel="LeaguesCup1">
     <title lang="es">Vancouver Whitecaps vs. FC Juárez (En Vivo)</title>
     <desc lang="es">Transmisión en vivo de la Leagues Cup: Vancouver Whitecaps vs. FC Juárez.</desc>
     <category lang="es">Deportes</category>
@@ -27,17 +27,17 @@
     <desc lang="es">Programación continua de la Leagues Cup. Los eventos en vivo iniciarán según el horario del partido.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260808021503 +0000" stop="20260809021503 +0000" channel="LeaguesCup2">
+  <programme start="20260808023003 +0000" stop="20260809023003 +0000" channel="LeaguesCup2">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
     <desc lang="es">Programación continua de la Leagues Cup. Los eventos en vivo iniciarán según el horario del partido.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260808021503 +0000" stop="20260809021503 +0000" channel="LeaguesCup3">
+  <programme start="20260808023003 +0000" stop="20260809023003 +0000" channel="LeaguesCup3">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
     <desc lang="es">Programación continua de la Leagues Cup. Los eventos en vivo iniciarán según el horario del partido.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260808021503 +0000" stop="20260808031500 +0000" channel="LeaguesCup4">
+  <programme start="20260808023003 +0000" stop="20260808031500 +0000" channel="LeaguesCup4">
     <title lang="es">Tigres UANL vs. Minnesota United (En Vivo)</title>
     <desc lang="es">Transmisión en vivo de la Leagues Cup: Tigres UANL vs. Minnesota United.</desc>
     <category lang="es">Deportes</category>
