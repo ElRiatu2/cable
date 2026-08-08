@@ -61,7 +61,6 @@ def obtener_partidos_leagues_cup():
     partidos = []
     tz_cst = timezone(timedelta(hours=-6))
     
-    # Fecha actual CST
     hoy_dt = datetime.now(tz_cst)
     fecha_hoy = hoy_dt.strftime('%Y%m%d')
     fecha_manana = (hoy_dt + timedelta(days=1)).strftime('%Y%m%d')
@@ -91,7 +90,6 @@ def obtener_partidos_leagues_cup():
                         dt_utc = datetime.fromisoformat(hora_utc_str)
                         dt_cst = dt_utc.astimezone(tz_cst)
                         
-                        # Filtrar solo eventos de hoy en adelante (no partidos viejos)
                         if dt_cst.date() < hoy_dt.date():
                             continue
 
@@ -280,7 +278,7 @@ def crear_relleno(tv_element, ch_id, inicio, fin):
 
 def subir_a_github():
     try:
-        subprocess.run(["git", "add", "guia_leaguescup.xml", "cable.m3u8"], cwd=REPO_DIR, check=True)
+        subprocess.run(["git", "add", "."], cwd=REPO_DIR, check=True)
         res = subprocess.run(["git", "status", "--porcelain"], cwd=REPO_DIR, capture_output=True, text=True)
         if res.stdout.strip():
             fecha = datetime.now().strftime("%Y-%m-%d %H:%M")
