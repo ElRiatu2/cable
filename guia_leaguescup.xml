@@ -17,7 +17,7 @@
     <display-name>Leagues Cup 4</display-name>
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/leagues_cup-logo_brandlogos.net_gxi1m.png" />
   </channel>
-  <programme start="20260808132701 +0000" stop="20260808223000 +0000" channel="LeaguesCup1">
+  <programme start="20260808133006 +0000" stop="20260808223000 +0000" channel="LeaguesCup1">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
     <desc lang="es">Transmisiones, análisis y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
@@ -37,12 +37,12 @@
     <desc lang="es">Partido en vivo de la Leagues Cup: Guadalajara vs. FC Dallas.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260809031500 +0000" stop="20260810152701 +0000" channel="LeaguesCup1">
+  <programme start="20260809031500 +0000" stop="20260810153006 +0000" channel="LeaguesCup1">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
     <desc lang="es">Transmisiones, análisis y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260808132701 +0000" stop="20260809000000 +0000" channel="LeaguesCup2">
+  <programme start="20260808133006 +0000" stop="20260809000000 +0000" channel="LeaguesCup2">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
     <desc lang="es">Transmisiones, análisis y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
@@ -62,12 +62,12 @@
     <desc lang="es">Partido en vivo de la Leagues Cup: Toluca vs. LAFC.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260809052500 +0000" stop="20260810152701 +0000" channel="LeaguesCup2">
+  <programme start="20260809052500 +0000" stop="20260810153006 +0000" channel="LeaguesCup2">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
     <desc lang="es">Transmisiones, análisis y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260808132701 +0000" stop="20260809020000 +0000" channel="LeaguesCup3">
+  <programme start="20260808133006 +0000" stop="20260809020000 +0000" channel="LeaguesCup3">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
     <desc lang="es">Transmisiones, análisis y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
@@ -77,12 +77,12 @@
     <desc lang="es">Partido en vivo de la Leagues Cup: Real Salt Lake vs. Atlante.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260809041500 +0000" stop="20260810152701 +0000" channel="LeaguesCup3">
+  <programme start="20260809041500 +0000" stop="20260810153006 +0000" channel="LeaguesCup3">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
     <desc lang="es">Transmisiones, análisis y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260808132701 +0000" stop="20260810152701 +0000" channel="LeaguesCup4">
+  <programme start="20260808133006 +0000" stop="20260810153006 +0000" channel="LeaguesCup4">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
     <desc lang="es">Transmisiones, análisis y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
