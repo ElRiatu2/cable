@@ -17,7 +17,7 @@
     <display-name>Leagues Cup 4</display-name>
     <icon src="https://brandlogos.net/wp-content/uploads/2025/02/leagues_cup-logo_brandlogos.net_gxi1m.png" />
   </channel>
-  <programme start="20260808150453 +0000" stop="20260808223000 +0000" channel="LeaguesCup1">
+  <programme start="20260808150722 +0000" stop="20260808223000 +0000" channel="LeaguesCup1">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
     <desc lang="es">Análisis, transmisiones y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
@@ -37,7 +37,7 @@
     <desc lang="es">Análisis, transmisiones y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260808150453 +0000" stop="20260809000000 +0000" channel="LeaguesCup2">
+  <programme start="20260808150722 +0000" stop="20260809000000 +0000" channel="LeaguesCup2">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
     <desc lang="es">Análisis, transmisiones y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
@@ -62,7 +62,7 @@
     <desc lang="es">Análisis, transmisiones y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260808150453 +0000" stop="20260809020000 +0000" channel="LeaguesCup3">
+  <programme start="20260808150722 +0000" stop="20260809020000 +0000" channel="LeaguesCup3">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
     <desc lang="es">Análisis, transmisiones y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
@@ -77,7 +77,7 @@
     <desc lang="es">Análisis, transmisiones y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20260808150453 +0000" stop="20260809150453 +0000" channel="LeaguesCup4">
+  <programme start="20260808150722 +0000" stop="20260809150722 +0000" channel="LeaguesCup4">
     <title lang="es">Leagues Cup 2026 - Transmisión en Vivo</title>
     <desc lang="es">Análisis, transmisiones y resúmenes de la Leagues Cup.</desc>
     <category lang="es">Deportes</category>
