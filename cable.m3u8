@@ -52,7 +52,7 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/640108.ts
 #EXTINF:-1 tvg-id="Sky Sports" tvg-name="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/960px-Sky_Sports_logo_2020.svg.png" group-title="Deportes",Sky Sports
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1053704.ts
 #EXTINF:-1 tvg-id="TUDNUSA" tvg-name="TUDN (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN (USA)
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1053664.ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1162672.ts
 #EXTINF:-1 tvg-id="TUDNMX" tvg-name="TUDN (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN (MX)
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1053540.ts
 #EXTINF:-1 tvg-id="DAZNF1" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="Deportes",DAZN F1
@@ -88,7 +88,7 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/663797.ts
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="TV Abierta",Azteca 7
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1105649.ts
 #EXTINF:-1 tvg-id="Cana5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-México.png" group-title="TV Abierta",Canal 5
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/822952.ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1162634.ts
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/2181px-Las_Estrellas_logo_%282016%29.svg.png" group-title="TV Abierta",Las Estrellas
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/822963.ts
 #EXTINF:-1 tvg-id="NickJR" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Niños",Nick Jr
