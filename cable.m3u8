@@ -1,24 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653213.ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/825833.ts
 #EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653223.ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/825825.ts
 #EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653230.ts
 #EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653235.ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/681052.ts
 #EXTINF:-1 tvg-id="espn5" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png" group-title="Deportes",ESPN 5
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653236.ts
 #EXTINF:-1 tvg-id="espn6" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1024px-ESPN_6_logo.svg.png" group-title="Deportes",ESPN 6
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653238.ts
 #EXTINF:-1 tvg-id="espn7" tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/872546.ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1163119.ts
 #EXTINF:-1 tvg-id="espn_deportes" tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Deportes",ESPN Deportes
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826194.ts
 #EXTINF:-1 tvg-id="foxsportsar" tvg-name="Fox Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="Deportes",Fox Sports Argentina
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1069327.ts
 #EXTINF:-1 tvg-id="foxsportsar2" tvg-name="Fox Sports 2 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Deportes",Fox Sports 2 Argentina
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/825837.ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1069329.ts
 #EXTINF:-1 tvg-id="foxsportsar3" tvg-name="Fox Sports 3 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Fox_Sports_3_Argentina_2023.png" group-title="Deportes",Fox Sports 3 Argentina
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/825839.ts
 #EXTINF:-1 tvg-id="espn_mexico" tvg-name="ESPN México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN México
@@ -32,15 +32,15 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1069334.ts
 #EXTINF:-1 tvg-id="foxsport2smx" tvg-name="Fox Sports 2 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/2560px-Fox_sports_2_logo.svg.png" group-title="Deportes",Fox Sports 2 México
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1069335.ts
 #EXTINF:-1 tvg-id="foxsport3smx" tvg-name="Fox Sports 3 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="Deportes",Fox Sports 3 México
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1069338.ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1162677.ts
 #EXTINF:-1 tvg-id="foxsportspremium" tvg-name="Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png" group-title="Deportes",Fox Sports Premium
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1069332.ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1162678.ts
 #EXTINF:-1 tvg-id="directvsports" tvg-name="Direct TV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",Direct TV Sports
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1053645.ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/825841.ts
 #EXTINF:-1 tvg-id="directvsports2" tvg-name="Direct TV Sports 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/skuq0t1642114108.png" group-title="Deportes",Direct TV Sports 2
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1069315.ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1371377.ts
 #EXTINF:-1 tvg-id="tycsports" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="Deportes",TyC Sports
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/221579.ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826269.ts
 #EXTINF:-1 tvg-id="aym_sports" tvg-name="AyM Sports" tvg-logo="https://aymsports.net/wp-content/themes/aym-sports/assets/images/logo.png" group-title="Deportes",AyM Sports
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 #EXTINF:-1 tvg-id="aztecadeportes" tvg-name="Azteca Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aztecadeporteslogo.png/250px-Aztecadeporteslogo.png" group-title="Deportes",Azteca Deportes
@@ -49,14 +49,14 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/664031.ts
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:-1 tvg-id="AYMSPORTS3" tvg-name="AyM Sports 3" tvg-logo="https://aymsports.net/tv/assets/libs/images/landing/aym-hd-logo.png?v=2" group-title="Deportes",AyM Sports 3
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/640108.ts
-#EXTINF:-1 tvg-id="Sky Sports" tvg-name="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/960px-Sky_Sports_logo_2020.svg.png" group-title="Deportes",Sky Sports
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1053704.ts
+#EXTINF:-1 tvg-id="Sky Sports" tvg-name="Sky Sports 16" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/960px-Sky_Sports_logo_2020.svg.png" group-title="Deportes",Sky Sports
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1249630.ts
 #EXTINF:-1 tvg-id="TUDNUSA" tvg-name="TUDN (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN (USA)
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1162672.ts
 #EXTINF:-1 tvg-id="TUDNMX" tvg-name="TUDN (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN (MX)
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1053540.ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1162671.ts
 #EXTINF:-1 tvg-id="DAZNF1" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="Deportes",DAZN F1
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1066744.ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1105220.ts
 #EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="https://1000marcas.net/wp-content/uploads/2025/01/TNT-Logo.png" group-title="Cable",TNT
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1304123.ts
 #EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1280px-National-Geographic-Logo.svg.png" group-title="Cable",National Geographic
