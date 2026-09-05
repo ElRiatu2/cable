@@ -84,11 +84,11 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/553722.ts
 #EXTINF:-1 tvg-id="Telemundo Chicago" tvg-name="Telemundo Chicago" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="Cable",Telemundo Chicago
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/834295.ts
 #EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="TV Abierta",Azteca Uno
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/663797.ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1162627.ts
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="TV Abierta",Azteca 7
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1105649.ts
+http://200.35.176.154:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="Cana5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-México.png" group-title="TV Abierta",Canal 5
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1162634.ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1162633.ts
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/2181px-Las_Estrellas_logo_%282016%29.svg.png" group-title="TV Abierta",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="NickJR" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Niños",Nick Jr
