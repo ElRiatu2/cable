@@ -56,9 +56,9 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/640108.ts
 #EXTINF:-1 tvg-id="Sky Sports" tvg-name="Sky Sports 16" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/960px-Sky_Sports_logo_2020.svg.png" group-title="Deportes",Sky Sports
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1249630.ts
 #EXTINF:-1 tvg-id="TUDNUSA" tvg-name="TUDN (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN (USA)
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1162672.ts
+http://rdctv.pro:8080/andxMUNpRFlSMjRiNGdpc3ZQU3Fna1l4ZnB5Y24rNC9rWEVaUHRZdmlNUFYxZTJlNXc4dkRBN1V2R3J3VWlaZA
 #EXTINF:-1 tvg-id="TUDNMX" tvg-name="TUDN (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN (MX)
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1162671.ts
+http://rdctv.pro:8080/andxMUNpRFlSMjRiNGdpc3ZQU3Fna1l4ZnB5Y24rNC9rWEVaUHRZdmlNUHkxVjJITWcwMzIxUHkwRHIyMnkyRA
 #EXTINF:-1 tvg-id="DAZNF1" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="Deportes",DAZN F1
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1105220.ts
 #EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="https://1000marcas.net/wp-content/uploads/2025/01/TNT-Logo.png" group-title="Cable",TNT
@@ -92,7 +92,7 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1162627.ts
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="TV Abierta",Azteca 7
 http://200.35.176.154:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="Cana5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-México.png" group-title="TV Abierta",Canal 5
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1162633.ts
+http://rdctv.pro:8080/andxMUNpRFlSMjRiNGdpc3ZQU3Fna1l4ZnB5Y24rNC9rWEVaUHRZdmlNT05rb1MvZ0N2c0VCTjdZZVlneXdnZQ
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/2181px-Las_Estrellas_logo_%282016%29.svg.png" group-title="TV Abierta",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="NickJR" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Niños",Nick Jr
