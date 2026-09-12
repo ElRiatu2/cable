@@ -29,6 +29,8 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/822216.ts
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653271.ts
 #EXTINF:-1 tvg-id="espn_3" tvg-name="ESPN 3 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 México
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826186.ts
+#EXTINF:-1 tvg-id="Canal Fox" tvg-name="Fox México" tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",Fox México
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1573875.ts
 #EXTINF:-1 tvg-id="Canal Fox Sports" tvg-name="Fox Sports México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/2560px-FOX_Sports_logo.svg.png" group-title="Deportes",Fox Sports México
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1069334.ts
 #EXTINF:-1 tvg-id="foxsport2smx" tvg-name="Fox Sports 2 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/2560px-Fox_sports_2_logo.svg.png" group-title="Deportes",Fox Sports 2 México
