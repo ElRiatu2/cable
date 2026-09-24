@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653213.ts
 #EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/825825.ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1086038.ts
 #EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653230.ts
 #EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4
@@ -14,7 +14,7 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653238.ts
 #EXTINF:-1 tvg-id="espn7" tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1163119.ts
 #EXTINF:-1 tvg-id="espn_deportes" tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Deportes",ESPN Deportes
-http://168.228.44.241:9998/play/a0dz/index.m3u8
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1249651.ts
 #EXTINF:-1 tvg-id="fox_deportes" tvg-name="Fox Deportes" tvg-logo="https://www.foxdeportes.com/assets/images/banner.png" group-title="Deportes",Fox Deportes
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="foxsportsar" tvg-name="Fox Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="Deportes",Fox Sports Argentina
@@ -135,6 +135,4 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1064956.ts
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1064946.ts
 #EXTINF:-1 tvg-id="1568892" tvg-name="ACCESO TOTAL 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/La_casa_de_los_famosos_M%C3%A9xico_season_4_poster.jpg/250px-La_casa_de_los_famosos_M%C3%A9xico_season_4_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="[EN VIVO] ®️ LA CASA DE LOS FAMOSOS  MEXICO",ACCESO TOTAL 24/7
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1568892.ts
-#EXTINF:-1 tvg-id="Toluca vs Santos" tvg-name="Toluca vs Santos" tvg-logo="https://s.secure.espncdn.com/stitcher/sports/soccer/mex.1/events/725167.png?templateId=espn.com.share.1" group-title="Eventos",Toluca vs Santos
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1729384.ts
 
