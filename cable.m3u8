@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653213.ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1570016.ts
 #EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1086038.ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/663638.ts
 #EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653230.ts
 #EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4
