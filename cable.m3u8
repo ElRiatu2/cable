@@ -45,8 +45,10 @@ https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 https://ftvpro.net:8443/live/AlanCuera628/sn3e9zpssyGy/611180.ts
 #EXTINF:-1 tvg-id="claro_sports" tvg-name="Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1600px-Claro_Sports_logo.svg.png" group-title="Deportes",Claro Sports
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
-#EXTINF:-1 tvg-id="Sky Sports" tvg-name="Sky Sports 16" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/960px-Sky_Sports_logo_2020.svg.png" group-title="Deportes",Sky Sports
+#EXTINF:-1 tvg-id="SkySports1" tvg-name="Sky Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/960px-Sky_Sports_logo_2020.svg.png" group-title="Deportes",Sky Sports 1
 https://ftvpro.net:8443/live/AlanCuera628/sn3e9zpssyGy/782743.ts
+#EXTINF:-1 tvg-id="SkySports16" tvg-name="Sky Sports 16" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/960px-Sky_Sports_logo_2020.svg.png" group-title="Deportes",Sky Sports 16
+https://ftvpro.net:8443/live/AlanCuera628/sn3e9zpssyGy/219306.ts
 #EXTINF:-1 tvg-id="TUDNUSA" tvg-name="TUDN (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN (USA)
 https://ftvpro.net:8443/live/AlanCuera628/sn3e9zpssyGy/186448.ts
 #EXTINF:-1 tvg-id="TUDNMX" tvg-name="TUDN (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN (MX)
