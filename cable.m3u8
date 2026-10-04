@@ -41,6 +41,8 @@ https://ftvpro.net:8443/live/AlanCuera628/sn3e9zpssyGy/310593.ts
 https://ftvpro.net:8443/live/AlanCuera628/sn3e9zpssyGy/288961.ts
 #EXTINF:-1 tvg-id="aym_sports" tvg-name="AyM Sports" tvg-logo="https://aymsports.net/wp-content/themes/aym-sports/assets/images/logo.png" group-title="Deportes",AyM Sports
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
+#EXTINF:-1 tvg-id="aym_sports3" tvg-name="AyM Sports 3" tvg-logo="https://foros.forounivers.com/uploads/monthly_2026_08/large.AYMSports3.png.9be222434bad804d50261497c62d7281.png" group-title="Deportes",AyM Sports 3
+https://ftvpro.net:8443/live/AlanCuera628/sn3e9zpssyGy/775512.ts
 #EXTINF:-1 tvg-id="aztecadeportes" tvg-name="Azteca Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aztecadeporteslogo.png/250px-Aztecadeporteslogo.png" group-title="Deportes",Azteca Deportes
 https://ftvpro.net:8443/live/AlanCuera628/sn3e9zpssyGy/611180.ts
 #EXTINF:-1 tvg-id="claro_sports" tvg-name="Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1600px-Claro_Sports_logo.svg.png" group-title="Deportes",Claro Sports
